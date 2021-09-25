@@ -1,0 +1,9 @@
+Quiz-1 Pengenalan UML
+Review materi Pengenalan UML:
+
+- PerubahanStandar UML
+
+- Tipe-tipe Diagram UML
+
+- Penggunaan UML dalam OOAD
+
